@@ -1,0 +1,28 @@
+---
+---
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body itemscope itemtype="http://schema.org/Article">
+    {% include header.html %}
+    <main class="content" role="main">
+      <article class="page">
+        <div class="noarticleimage">
+          <div class="page-meta">
+            <h1 class="page-title">{{ page.title }}</h1>
+          </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        <section class="page-content">
+          <div class="page-reading">
+            <span class="page-reading-time"></span>
+          </div>
+          <a name="topofpage"></a>
+          {{content}}
+        </section>
+      </article>
+    </main>
+  </body>
+</html>
