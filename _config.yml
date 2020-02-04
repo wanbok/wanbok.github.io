@@ -7,17 +7,17 @@ gems:
   - jekyll-redirect-from
 
 # Site settings
-title: "블로그"
-description: ""
-email: ''
+title: '블로그'
+description: ''
+email: 'choi@wanbok.com'
 #blog logo
 logo: ""
 # blog cover
 cover: ""
 
 authors:
-  # realignist:
-  #   name: Haze Lee
+  wanbok:
+    name: Wanbok Choi
   #   image: http://realignist.me/assets/images/pikachu_logo.png
   # 2:
   #   name:
@@ -25,13 +25,10 @@ authors:
 
 paginate: 5
 
-url: "http://" # the base hostname & protocol for your site
+url: "http://wanbok.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@'
-
-#fill in disqus shortname to use disqus
-disqus: ''
+twitter_handle: '@wanbok'
 
 timezone: Asia/Seoul
 
