@@ -1,28 +1,21 @@
 ---
+layout: default
 ---
-<!DOCTYPE html>
-<html>
-  {% include head.html %}
-  <body itemscope itemtype="http://schema.org/Article">
-    {% include header.html %}
-    <main class="content" role="main">
-      <article class="page">
-        <div class="noarticleimage">
-          <div class="page-meta">
-            <h1 class="page-title">{{ page.title }}</h1>
-          </div>
+
+<div class='o-wrapper'>
+
+  <div class='o-grid'>
+    <div class='o-grid__col'>
+      <article class='c-post'>
+        <h1 class='c-post__title u-text-center'>{{ page.title }}</h1>
+
+        <div class='c-content'>
+          {% include page-image.html %}
+
+          {{ content }}
         </div>
-        <br>
-        <br>
-        <br>
-        <section class="page-content">
-          <div class="page-reading">
-            <span class="page-reading-time"></span>
-          </div>
-          <a name="topofpage"></a>
-          {{content}}
-        </section>
       </article>
-    </main>
-  </body>
-</html>
+    </div>
+  </div>
+
+</div>
