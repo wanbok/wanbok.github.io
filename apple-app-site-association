@@ -1,5 +1,8 @@
 {
+    "applinks": {
+        "apps": [ "3G5J5L73Z2.com.wanbok.samplecode.fruta" ]
+    }
     "appclips": {
-        "apps": [ "3G5J5L73Z2.com.wanbok.apple-samplecode.fruta.Clip" ]
+        "apps": [ "3G5J5L73Z2.com.wanbok.samplecode.fruta.Clip" ]
     }
 }
