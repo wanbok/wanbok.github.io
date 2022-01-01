@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "지난 3년간의 회고"
-date: 2021-01-01 00:00:00 +0900
+date: 2022-01-01 00:00:00 +0900
 categories: 회고
 tags: 부동산, 투자, 회고
 author: wanbok
