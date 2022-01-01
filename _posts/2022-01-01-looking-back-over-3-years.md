@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "지난 3년간의 회고"
+title: "지난 3년 회고"
 date: 2022-01-01 20:35:00 +0900
 categories: 회고
 tags: 부동산, 투자, 회고
