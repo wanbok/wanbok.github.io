@@ -20,7 +20,7 @@
 
 title: Choi Wanbok
 email: choi@wanbok.com
-description: Choi Wanbok's Blog
+description: Wanbok's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wanbok.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wanbok
